@@ -25,16 +25,16 @@ googleAnalytics          = "UA-163484973-1"                               # Trac
     text = "posts"
 
 [[params.mainMenu]]
-    link = "gallery"
-    text = "gallery"
-
-[[params.mainMenu]]
-    link = "portfolio"
-    text = "portfolio"
-
-[[params.mainMenu]]
     link = "about"
     text = "About us"
 
 [imaging]
     quality = 75
+
+[[params.mainMenu]]
+    text = "Angel Investment Network"
+    link = "https://angelinvestmentnetwork.cc/"
+[[params.mainMenu]]
+    text = "Best WEB Trader"
+    link = "https://www.bestwebtrader.com/"
+
