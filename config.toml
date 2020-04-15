@@ -1,4 +1,4 @@
-baseurl                  = "https://bounty.video"           # Your domain name
+baseurl                  = "https://www.bounty.video"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -33,7 +33,7 @@ googleAnalytics          = "UA-163484973-1"                               # Trac
 
 [[params.mainMenu]]
     text = "Angel Investment Network"
-    link = "https://angelinvestmentnetwork.cc/"
+    link = "https://www.angelinvestmentnetwork.cc/"
 [[params.mainMenu]]
     text = "Best WEB Trader"
     link = "https://www.bestwebtrader.com/"
