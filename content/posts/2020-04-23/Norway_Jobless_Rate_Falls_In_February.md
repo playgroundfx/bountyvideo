@@ -1,0 +1,42 @@
++++
+categories = ["Cryptocurrency", "Blockchain", "SmartContract"]
+date = "2020-04-23"
+description = "Norway Jobless Rate Falls In February"
+tags = ["Cryptocurrency", "Blockchain", "SmartContract"]
+title = "Norway Jobless Rate Falls In February"
+type = "post"
++++
+
+Norway's jobless rate fell in February, the labor force survey data from
+Statistics Norway showed on Thursday.
+
+The jobless rate fell to 3.5 percent in February from 3.9 percent in
+November. Economists had expected a rate of 4.0 percent.
+
+The unemployment rate for February indicates the average for January to
+March and that for November, reflects the average for October to
+December.
+
+The unemployment rate was 3.7 percent in February.
+
+The number of unemployed persons decreased to 100,000 in February from
+112,000 in the three months to November.
+
+In the first quarter, the jobless rate fell to 3.6 percent from 3.8
+percent in the fourth quarter.
+
+For comments and feedback [contact](https://www.playgroundfx.com/contact/): editorial@rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com
+
+[Economic News][1]
+
+ **What parts of the world are seeing the best (and worst) economic
+performances lately? Click[here][2] to check out our [Econ Scorecard][2]
+and find out! See up-to-the-moment [ranking](https://www.playgroundfx.com/blog/crypto-exchange-ranking/)s for the best and worst
+performers in [GDP][3], [unemployment rate][4], [inflation][5] and much
+more.**
+
+   1. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/Content/EconomicNews.aspx
+   2. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/industrial-production/highest-performance.aspx
+   3. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/GDP/highest-performance.aspx
+   4. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/unemployment-rate/lowest-performance.aspx
+   5. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/CPI/highest-performance.aspx
