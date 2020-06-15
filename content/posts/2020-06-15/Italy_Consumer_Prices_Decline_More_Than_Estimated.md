@@ -1,0 +1,47 @@
++++
+categories = ["Cryptocurrency", "Blockchain", "SmartContract"]
+date = "2020-06-15"
+description = "Italy Consumer Prices Decline More Than Estimated"
+tags = ["Cryptocurrency", "Blockchain", "SmartContract"]
+title = "Italy Consumer Prices Decline More Than Estimated"
+type = "post"
++++
+
+{{<iframe id="large-banner" src="https://www.bounty.group/#slide=6.0" width="100%" height="600" scrolling="no" style="border: 0px solid rgb(216, 221, 230); border-radius: 3px;">}}
+
+Italy's consumer prices fell more than initially estimated in May, final
+data from the statistical office Istat showed on Monday.
+
+The consumer price index dropped 0.2 percent year-on-year in May, after
+remaining unchanged in April. According to initial estimate, prices had
+fallen 0.1 percent.
+
+The core inflation excluding prices of energy and unprocessed food, held
+steady at 0.8 percent in May. The rate was revised down from 0.9
+percent.
+
+On a month-on-month basis, consumer prices were down 0.2 percent in May,
+revised from 0.1 percent decline estimated initially.
+
+The EU measure of harmonized index of consumer prices, or HICP,
+decreased 0.3 percent annually in May. The flash estimate showed an
+annual 0.2 percent fall for May.
+
+On a monthly basis, the HICP declined 0.3 percent in May. According to
+the initial estimate, HICP had declined 0.2 percent.
+
+For comments and feedback [contact](https://www.playgroundfx.com/contact/): editorial@rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com
+
+[Economic News][1]
+
+ **What parts of the world are seeing the best (and worst) economic
+performances lately? Click[here][2] to check out our [Econ Scorecard][2]
+and find out! See up-to-the-moment [ranking](https://www.playgroundfx.com/blog/crypto-exchange-ranking/)s for the best and worst
+performers in [GDP][3], [unemployment rate][4], [inflation][5] and much
+more.**
+
+   1. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/Content/EconomicNews.aspx
+   2. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/unemployment-rate/highest-performance.aspx
+   3. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/GDP/highest-performance.aspx
+   4. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/unemployment-rate/lowest-performance.aspx
+   5. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/CPI/highest-performance.aspx
