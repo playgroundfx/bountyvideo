@@ -1,0 +1,39 @@
++++
+categories = ["Cryptocurrency", "Blockchain", "SmartContract"]
+date = "2021-09-01"
+description = "New Zealand Terms Of Trade Climb 3.3% In Q2"
+tags = ["Cryptocurrency", "Blockchain", "SmartContract"]
+title = "New Zealand Terms Of Trade Climb 3.3% In Q2"
+type = "post"
++++
+
+{{<iframe id="large-banner" src="https://www.bounty.group/#slide=3.0" width="100%" height="600" scrolling="no" style="border: 0px solid rgb(216, 221, 230); border-radius: 3px;">}}
+
+New Zealand's merchandise [terms](https://www.fintechee.com/terms/) of trade increased 3.3 percent on
+quarter in the second quarter of 2021, Statistics New Zealand said on
+Thursday.
+
+That beat forecasts for an increase of 2.5 percent following the 0.1
+percent gain in the three months prior.
+
+Export prices jumped 8.3 percent on quarter, exceeding expectations for
+a gain of 3.0 percent after slipping 0.8 percent in Q1.
+
+Import prices perked 4.8 percent versus forecasts for a rise of 1.8
+percent after easing 0.8 percent in the previous three months.
+
+For comments and feedback [contact](https://www.playgroundfx.com/contact/): editorial@rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com
+
+[Economic News][1]
+
+ **What parts of the world are seeing the best (and worst) economic
+performances lately? Click[here][2] to check out our [Econ Scorecard][2]
+and find out! See up-to-the-moment [ranking](https://www.playgroundfx.com/blog/crypto-exchange-ranking/)s for the best and worst
+performers in [GDP][3], [unemployment rate][4], [inflation][5] and much
+more.**
+
+   1. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/Content/EconomicNews.aspx
+   2. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/PPI/highest-performance.aspx
+   3. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/GDP/highest-performance.aspx
+   4. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/unemployment-rate/lowest-performance.aspx
+   5. www.rtt[news](https://www.letsplayfx.com/blog/forex-news-website/).com/economic-scorecard/world-rank/CPI/highest-performance.aspx
